@@ -1,71 +1,65 @@
+<head>
+<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+</head>
+
 body {
-	background: #E8ECF0;
-	font-family: sans-serif;
-	margin: 0;
+	background: #3E4649;
+	color: #f7f7f7;
+	font-family: 'Montserrat', sans-serif;
+}
+h1,
+h2 {
+	font-weight: bold;
+}
+p {
+	font-size: 16px;
+	color: #cdcdcd;
+}
+.navbar {
+	margin-bottom: 0;
+}
+.jumbotron {
+	background: #3498DB;
+	color: white;
+	text-align: center;
+}
+.jumbotron p {
+	color: white;
+	font-size: 26px;
+}
+.navbar-inverse {
+	background: #2E2F31;
+	border: 0;
+} 
+.navbar-inverse .navbar-nav li a {
+	color: #f7f7f7;
+	font-size: 16px;
+}
+.navbar-inverse .navbar-nav li a:hover {
+	background: #27A967;
+}
+.navbar-inverse .navbar-nav .dropdown-menu li a:hover {
+	background: #2C463C;
+}
+.dropdown-menu li a {
+	padding: 10px;
+}
+.btn-primary {
+	color: #fff;
+	background-color: transparent;
+	border-color: white;
+	margin-bottom: 5px;
+}
+.btn-primary:hover {
+	color: #3498DB;
+	background-color: white;
+	border-color: white;
 }
 
-header {
-	background: #BAC2CD;
-	margin: 0;
-	padding: 15px 15px 0px 15px;
-}
 
-header h1 {
-	margin: 0;
-	color: #172D4D;
-	display: inline;
-}
-
-nav ul {
-	margin: 0;
-	padding: 0 0 0 15px;
-	display: inline;
-}
-
-nav ul li {
-	background: #DEE2E6;
-	display: inline-block;
-	list-style-type: none;
-	padding: 5px 15px;
-	margin: 0;
-}
-
-nav ul li a {
-	color: #8490A3;
-	text-decoration: none;
-}
-
-#display {
-	background-color: #F5F5F5;
-  	font-family: Lato, sans-serif;;
-  	text-align: center;
-  	padding: 5em 1em;
-}
-
-#display h1 {
-  	font-weight: 400;
-  	font-size: 3.2em;
-  	margin: 0;
- 	color: #333333;
-}
-
-#display .bio {
-	font-weight: 300;
- 	font-size: 19.2;
-  	margin: 15px 0px 20px;
-  	color: #333333;
-  	display: block;
-  	box-sizing: border-box;
-}
 
 
 
 /*
-dark blue: #172D4D
-light blue: #8490A3;
-black/gray normal words: #333333;
-darker background gray?: #DEE2E6;
-gray (background): #E8ECF0;
-gold accent: #A28351
-;
+blue: #3498DB;
 */
