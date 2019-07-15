@@ -56,7 +56,7 @@ p {
 }
 
 .btn-primary {
-	color: #fff;
+	color: white;
 	background-color: transparent;
 	border-color: white;
 	margin-bottom: 5px;
@@ -73,36 +73,43 @@ p {
 	position: relative;
 }
 
-.about h1{
+.about h1 {
 	color:#EEB868;
 	margin: 2em;
 }
 
-.about img{
+.about img {
 	height: 100%;
     width: 100%;
     border-radius: 50%
 }
 
-.about span{
+.about span {
 	display: block;
 	color: #456990;
 	position: absolute;
 	left: 115px;
 }
 
-.about .desc{
+.about .desc {
 	padding: 2em;
 	border-left:4px 
 	solid #3498DB;
 }
 
-.about .desc p{
+.about .desc p {
 	line-height:2;
 	color: #456990;
 }
 
-
+.portfolio {
+	margin: 4em 0;
+    position: relative;	
+}
+.portfolio h1 {
+	color: #EEB868;
+	margin: 2em;	
+}
 
 
 /*

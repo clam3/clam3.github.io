@@ -11,7 +11,7 @@
 			"file": "index.html",
 			"settings":
 			{
-				"buffer_size": 759,
+				"buffer_size": 3932,
 				"encoding": "UTF-8",
 				"line_ending": "Windows"
 			}
@@ -20,16 +20,7 @@
 			"file": "main.css",
 			"settings":
 			{
-				"buffer_size": 758,
-				"encoding": "UTF-8",
-				"line_ending": "Windows"
-			}
-		},
-		{
-			"file": "aboutme.html",
-			"settings":
-			{
-				"buffer_size": 230,
+				"buffer_size": 1663,
 				"encoding": "UTF-8",
 				"line_ending": "Windows"
 			}
@@ -67,11 +58,12 @@
 	},
 	"file_history":
 	[
+		"/D/Coding/christinelam/aboutme.html",
 		"/D/Coding/christinelam/sublime project.sublime-project"
 	],
 	"find":
 	{
-		"height": 0.0
+		"height": 27.0
 	},
 	"find_in_files":
 	{
@@ -85,6 +77,7 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"nav"
 		],
 		"highlight": true,
 		"in_selection": false,
@@ -111,15 +104,15 @@
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 759,
+						"buffer_size": 3932,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								55,
-								55
+								2707,
+								2707
 							]
 						],
 						"settings":
@@ -127,7 +120,7 @@
 							"syntax": "Packages/HTML/HTML.sublime-syntax"
 						},
 						"translation.x": 0.0,
-						"translation.y": 0.0,
+						"translation.y": 1211.2,
 						"zoom_level": 1.0
 					},
 					"stack_index": 0,
@@ -139,51 +132,24 @@
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 758,
+						"buffer_size": 1663,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								383,
-								383
+								1524,
+								1524
 							]
 						],
 						"settings":
 						{
-							"syntax": "Packages/CSS/CSS.sublime-syntax"
+							"syntax": "Packages/CSS/CSS.sublime-syntax",
+							"translate_tabs_to_spaces": false
 						},
 						"translation.x": 0.0,
-						"translation.y": 838.4,
-						"zoom_level": 1.0
-					},
-					"stack_index": 2,
-					"type": "text"
-				},
-				{
-					"buffer": 2,
-					"file": "aboutme.html",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 230,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								222,
-								222
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/HTML/HTML.sublime-syntax"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
+						"translation.y": 648.0,
 						"zoom_level": 1.0
 					},
 					"stack_index": 1,
@@ -194,7 +160,7 @@
 	],
 	"incremental_find":
 	{
-		"height": 0.0
+		"height": 27.0
 	},
 	"input":
 	{
@@ -231,7 +197,7 @@
 	"project": "websitesublime.sublime-project",
 	"replace":
 	{
-		"height": 0.0
+		"height": 50.0
 	},
 	"save_all_on_build": true,
 	"select_file":
