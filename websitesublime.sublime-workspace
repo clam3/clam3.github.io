@@ -11,7 +11,7 @@
 			"file": "index.html",
 			"settings":
 			{
-				"buffer_size": 4092,
+				"buffer_size": 4232,
 				"encoding": "UTF-8",
 				"line_ending": "Windows"
 			}
@@ -20,7 +20,7 @@
 			"file": "main.css",
 			"settings":
 			{
-				"buffer_size": 1663,
+				"buffer_size": 1701,
 				"encoding": "UTF-8",
 				"line_ending": "Windows"
 			}
@@ -63,7 +63,7 @@
 	],
 	"find":
 	{
-		"height": 27.0
+		"height": 40.8
 	},
 	"find_in_files":
 	{
@@ -77,6 +77,7 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"src",
 			"nav"
 		],
 		"highlight": true,
@@ -104,15 +105,15 @@
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 4092,
+						"buffer_size": 4232,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								3114,
-								3114
+								877,
+								877
 							]
 						],
 						"settings":
@@ -120,7 +121,7 @@
 							"syntax": "Packages/HTML/HTML.sublime-syntax"
 						},
 						"translation.x": 0.0,
-						"translation.y": 1468.0,
+						"translation.y": 700.8,
 						"zoom_level": 1.0
 					},
 					"stack_index": 0,
@@ -132,15 +133,15 @@
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 1663,
+						"buffer_size": 1701,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								1524,
-								1524
+								1561,
+								1561
 							]
 						],
 						"settings":
@@ -149,7 +150,7 @@
 							"translate_tabs_to_spaces": false
 						},
 						"translation.x": 0.0,
-						"translation.y": 648.0,
+						"translation.y": 1644.8,
 						"zoom_level": 1.0
 					},
 					"stack_index": 1,

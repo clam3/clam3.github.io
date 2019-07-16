@@ -45,6 +45,10 @@ p {
 	opacity: .25;
 }
 
+.dropdown-item {
+	color: #456990;
+}
+
 .jumbotron {
 	background: #3498DB;
 	color: white;
@@ -112,10 +116,12 @@ p {
 }
 
 
+
+
 /*
 blue: #3498DB;
 orange: #EEB868;
-red: #EF767A6;
+red: #EF767A;
 navy: #456990;
 green: #49DCB1;
 https://coolors.co/49dcb1-3498db-eeb868-456990-ef767a
