@@ -11,7 +11,7 @@
 			"file": "index.html",
 			"settings":
 			{
-				"buffer_size": 10487,
+				"buffer_size": 10525,
 				"encoding": "UTF-8",
 				"line_ending": "Windows"
 			}
@@ -63,7 +63,7 @@
 	],
 	"find":
 	{
-		"height": 40.8
+		"height": 27.0
 	},
 	"find_in_files":
 	{
@@ -111,15 +111,15 @@
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 10487,
+						"buffer_size": 10525,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								3605,
-								3605
+								2794,
+								2794
 							]
 						],
 						"settings":
@@ -127,7 +127,7 @@
 							"syntax": "Packages/HTML/HTML.sublime-syntax"
 						},
 						"translation.x": 0.0,
-						"translation.y": 1282.4,
+						"translation.y": 1272.8,
 						"zoom_level": 1.0
 					},
 					"stack_index": 0,
@@ -156,7 +156,7 @@
 							"translate_tabs_to_spaces": false
 						},
 						"translation.x": 0.0,
-						"translation.y": 3236.8,
+						"translation.y": 3237.0,
 						"zoom_level": 1.0
 					},
 					"stack_index": 1,
