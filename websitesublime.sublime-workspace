@@ -15,7 +15,7 @@
 			"file": "index.html",
 			"settings":
 			{
-				"buffer_size": 10771,
+				"buffer_size": 10691,
 				"encoding": "UTF-8",
 				"line_ending": "Windows"
 			}
@@ -24,7 +24,7 @@
 			"file": "suitcasePacker.html",
 			"settings":
 			{
-				"buffer_size": 5364,
+				"buffer_size": 5284,
 				"encoding": "UTF-8",
 				"line_ending": "Windows"
 			}
@@ -33,7 +33,7 @@
 			"file": "minecraft.html",
 			"settings":
 			{
-				"buffer_size": 5126,
+				"buffer_size": 5046,
 				"encoding": "UTF-8",
 				"line_ending": "Windows"
 			}
@@ -42,7 +42,7 @@
 			"file": "planet.html",
 			"settings":
 			{
-				"buffer_size": 5054,
+				"buffer_size": 4974,
 				"encoding": "UTF-8",
 				"line_ending": "Windows"
 			}
@@ -146,15 +146,15 @@
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 10771,
+						"buffer_size": 10691,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								2418,
-								2413
+								2368,
+								2368
 							]
 						],
 						"settings":
@@ -163,7 +163,7 @@
 							"translate_tabs_to_spaces": false
 						},
 						"translation.x": 0.0,
-						"translation.y": 898.4,
+						"translation.y": 754.0,
 						"zoom_level": 1.0
 					},
 					"stack_index": 3,
@@ -175,15 +175,15 @@
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 5364,
+						"buffer_size": 5284,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								2416,
-								2416
+								2315,
+								2315
 							]
 						],
 						"settings":
@@ -191,7 +191,7 @@
 							"syntax": "Packages/HTML/HTML.sublime-syntax"
 						},
 						"translation.x": 0.0,
-						"translation.y": 1086.4,
+						"translation.y": 874.0,
 						"zoom_level": 1.0
 					},
 					"stack_index": 2,
@@ -203,15 +203,15 @@
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 5126,
+						"buffer_size": 5046,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								2410,
-								2410
+								2360,
+								2360
 							]
 						],
 						"settings":
@@ -220,7 +220,7 @@
 							"translate_tabs_to_spaces": false
 						},
 						"translation.x": 0.0,
-						"translation.y": 1048.8,
+						"translation.y": 1067.0,
 						"zoom_level": 1.0
 					},
 					"stack_index": 1,
@@ -232,15 +232,15 @@
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 5054,
+						"buffer_size": 4974,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								2407,
-								2407
+								2357,
+								2357
 							]
 						],
 						"settings":
@@ -249,7 +249,7 @@
 							"translate_tabs_to_spaces": false
 						},
 						"translation.x": 0.0,
-						"translation.y": 850.4,
+						"translation.y": 632.8,
 						"zoom_level": 1.0
 					},
 					"stack_index": 0,
