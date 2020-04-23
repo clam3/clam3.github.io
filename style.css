@@ -1,0 +1,60 @@
+body{
+  margin: 0;
+  padding: 0;
+  background: url(mainBackground.jpg) no-repeat;
+  background-size: cover;
+}
+.box{
+  width: 450px;
+  background: rgba(0, 0, 0, 0.4);
+  padding: 60px;
+  text-align: center;
+  margin: auto;
+  margin-top: 2%;
+  margin-bottom: 2%;
+  color: white;
+  font-family: "Lucida Console", Monaco, monospace
+}
+.box-img{
+  border-radius: 50%;
+  width: 200px;
+  height: 200px;
+  object-fit: cover;
+
+}
+.box h1{
+  font-size: 40px;
+  letter-spacing: 3px;
+  font-weight: 100;
+}
+.box h5{
+  font-size: 20px;
+  letter-spacing: 3px;
+  font-weight: 100;
+}
+.box p{
+  text-align: justify;
+}
+
+a {
+  color: Deepskyblue;
+}
+
+ul{
+  margin: 0;
+  padding: 0;
+}
+.box li{
+  display: inline-block;
+  margin: 6px;
+  list-style: none;
+}
+.box li a{
+  color: white;
+  text-decoration: none;
+  font-size: 60px;
+  transition: all ease-in-out 250ms;
+}
+.box li a:hover{
+  color: #b9b9b9;
+}
