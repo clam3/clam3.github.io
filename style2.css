@@ -1,0 +1,118 @@
+:root {
+  --color-black: #202020;
+  --color-white: #ffffff;
+  --color-accent-1: Deepskyblue;
+  --color-accent-2: Hotpink;
+  --color-text: var(--color-black);
+  --color-background: var(--color-white);
+  --font-family: "Lucida Console", Monaco, monospace
+}
+
+
+/* fonts */
+h1, h2, h3, h4, h5, h6 {
+  font-family: "Lucida Console", Monaco, monospace;
+}
+
+
+h4 {
+  font-weight: normal;
+}
+
+p, li, td {
+  text-align: justify;
+  hyphens: auto;
+  font-family: "Lucida Console", Monaco, monospace;
+}
+
+header > p {
+  font-style: italic;
+}
+
+code, pre {
+  font-family: var(--font-code);
+}
+
+pre {
+  border-left: 2px solid var(--color-accent-1);
+  padding-left: 10px;
+}
+
+blockquote {
+  border-left: 2px solid var(--color-accent-1);
+  padding-left: 5ch;
+}
+
+/* color */
+body {
+  color: var(--color-text);
+  background-color: var(--color-background);
+}
+
+pre.copy:hover {
+  border-left: 2px solid var(--color-accent-2);
+  cursor: pointer;
+}
+
+pre.copy:hover::before {
+  content: '📋';
+  float: right;
+}
+
+/* links */
+a[href^="#"] {
+  border: none;
+}
+
+a[href^="#"]::before {
+  margin-right: 0.5ch;
+  content: '#';
+  color: var(--color-accent-1);
+}
+
+a[href^="#"]:hover::before {
+  color: var(--color-accent-2);
+}
+
+a {
+  color: var(--color-text);
+  text-decoration: none;
+  border-bottom: 2px solid var(--color-accent-1);
+  cursor: pointer;
+}
+
+a:hover {
+  border-bottom: 2px solid var(--color-accent-2);
+}
+
+a[href^="http://"]::after,
+a[href^="https://"]::after,
+a[href^="mailto:"]::after {
+  color: var(--color-accent-1);
+  content: '↗';
+}
+
+a[href^="http://"]:hover::after,
+a[href^="https://"]:hover::after,
+a[href^="mailto:"]:hover::after {
+  color: var(--color-accent-2);
+}
+
+svg.icon {
+  vertical-align: middle;
+  height: 0.85em;
+}
+
+a > svg.icon {
+  color: var(--color-accent-1);
+}
+
+a:hover > svg.icon {
+  color: var(--color-accent-2);
+}
+
+::selection {
+  color: var(--color-background);
+  background-color: var(--color-accent-1);
+}
+
