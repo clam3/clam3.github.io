@@ -1,6 +1,12 @@
 a {
+	color: Deepskyblue;
+	text-decoration: none;
+}
+
+a:hover {
 	color: LightPink;
 }
+
 body {
 	font-family: "Lucida Console", Monaco, monospace
 }
@@ -25,6 +31,10 @@ img {
 nav {
 	margin-left: 30px;
 	color: Deepskyblue;
+}
+
+.bottom {
+	margin: 0px 20px 0px 0px;
 }
 
 .projects {
