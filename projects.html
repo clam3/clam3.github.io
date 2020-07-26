@@ -13,7 +13,7 @@
     </nav>
     <div>
         <header>
-          <h1>Projects</h1>
+          <h1>Projects &#128421;</h1>
         </header>
 
         <section>
@@ -21,6 +21,30 @@
             Hello! This contains a variety of projects I have worked on including coding and research projects.
           </p>
         </section>
+
+      <div class="projects">
+        <header>
+          <h2>Pill Safety</h2>
+        </header>
+        <section>
+        	<table>
+			  <tr>
+			    <td><img class="doubleMedia" src="pillSafety.jpg" alt="Screenshot of Pill Safety Application"></td>
+			    <td><iframe width="420" height="315" src="https://www.youtube.com/embed/GSeNwVEhf7c"></iframe></td>
+			  </tr>
+			</table>
+          
+          
+          <p>A 2019 HackMIT project with 3 close friends that won "Best Use of IBM Visual Recognition".</p> 
+          <p>Pill Safety was built with the problem of perscription drug epidemic in America. Teenagers and young adults typically obtain prescription drugs from peers, friends, or family members, even resorting to stealing to get their fix. </p>
+      	  <p>When "take a picture" is pressed on the interface, a request is sent from IBM's node-red to a Raspberry Pi. The Raspberry Pi takes a picture and sends it to Dropbox which then node-red retrieves. Classifiers are used on the image to determine if it matches the owner's face. If it does, a request is sent back to the pi to turn the servo motor in order to unlock the box which contains perscription medication. If the image is not the owner, then verification failed and the person will not gain access to the prescription drugs.</p>
+          <p>I worked on training the visual recognition model and setting up node-red (javascript) to send/receive pictures from the Raspberry Pi through Dropbox.</p>
+          </p>
+          <p>
+            <a href="https://devpost.com/software/pill-safety">Link to Pill Safety</a>
+          </p>
+        </section>
+      </div>
 
       <div class="projects">
         <header>
@@ -37,6 +61,25 @@
           </p>
         </section>
       </div>
+
+       <div class="projects">
+        <header>
+          <h2>Safety First</h2>
+        </header>
+        <section>
+          <img style="max-width:25%; height: auto;" src="safetyFirst.png" alt="">
+          <p>The starting idea was an app that gathers data from police databases and utilizes historical data to display a heatmap of criminal activity in Boston. This app will then recommend safer areas for foot traffic and provide actual navigation instructions, avoiding areas of highly concentrated violent crime and drug related activities. Although we only were able to implement the heatmap portion, I would like to resume this project one day when I have more technical abilities.</p> 
+          <p>We scraped Boston Police arrest databases and gathered a dataset. Then, we utilized a deep neural network to create a model for geospatial crime frequency data, learning to predict the relative safety of a given area. The neutral network then evaluated the data on a variety of different locations in Boston and created a custom heatmap, which we then turned into a custom Google Maps overlay.</p>
+          <p>This was my first CS project at my first ever hackathon, done during my first semester at college. I'd admit, I dind't really contribute much. I came up with the idea and helped with managing the team and manually cleaning up the data we collected.</p>
+          </p>
+          <p>
+            <a href="https://devpost.com/software/safety-first-bueh2v">Link to Safety First</a>
+          </p>
+        </section>
+      </div>
+
+
+      <h1>Research &#128221;</h1>
 
       <div class="projects">
         <header>

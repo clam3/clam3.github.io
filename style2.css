@@ -16,8 +16,17 @@ div {
 	display: inline-block;
 }
 
-h1, h2 {
+h2 {
 	color: Deepskyblue;
+}
+
+h1 {
+	color: LightPink;
+}
+
+iframe {
+	max-height:100%;
+	max-width:100%;
 }
 
 img {
@@ -32,6 +41,21 @@ nav {
 	margin-left: 30px;
 	color: Deepskyblue;
 }
+
+table {
+	float: left;
+	margin-right: 30px
+}
+
+td {
+	padding: 0px;
+}
+
+.doubleMedia {
+	max-height: 100%;
+	max-width: 75%;
+	margin-right: 0px;
+}	
 
 .bottom {
 	margin: 0px 20px 0px 0px;
